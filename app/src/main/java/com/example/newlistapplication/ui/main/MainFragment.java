@@ -63,11 +63,11 @@ public class MainFragment extends Fragment {
     {
         ArrayList<MyObject> listdata =new ArrayList<MyObject>();
 
-        listdata.add(new MyObject("Angelina A", "Angelina's Description", "angelina@example.com", "+375 99999999"));
-        listdata.add(new MyObject("Angeliki A", "Angeliki's Description", "angeliki@example.com", "+375 99999999"));
-        listdata.add(new MyObject("Angel A", "Angel's Description", "angel@example.com", "+375 99999999"));
-        listdata.add(new MyObject("Angy A", "Angy's Description", "angely@example.com", "+375 99999999"));
-        listdata.add(new MyObject("Angelica A", "Angelica's Description", "angelica@example.com", "+375 99999999"));
+        listdata.add(new MyObject("Angelina A", "Angelina's Description", "angelina@example.com", "+357 99999999"));
+        listdata.add(new MyObject("Angeliki A", "Angeliki's Description", "angeliki@example.com", "+357 99999999"));
+        listdata.add(new MyObject("Angel A", "Angel's Description", "angel@example.com", "+357 99999999"));
+        listdata.add(new MyObject("Angy A", "Angy's Description", "angely@example.com", "+357 99999999"));
+        listdata.add(new MyObject("Angelica A", "Angelica's Description", "angelica@example.com", "+357 99999999"));
 
         return listdata;
     }
