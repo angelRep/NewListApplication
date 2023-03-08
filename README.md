@@ -1,7 +1,7 @@
 # NewListApplication
 Android Application. List with swipe menu. Menu with phone and email buttons. Swipe gestures. Show menu with gesture on each list item.
 
-[![Watch the video]([https://github.com/angelRep/NewListApplication/blob/master/NewListApplication%20-%20Demo.mp4](https://github.com/angelRep/NewListApplication/blob/master/NewListApplication%20-%20Demo.mp4))]
+[![Watch the video][https://github.com/angelRep/NewListApplication/blob/master/NewListApplication%20-%20Demo.mp4](https://github.com/angelRep/NewListApplication/blob/master/NewListApplication%20-%20Demo.mp4)]
 
 
 #Android #Application #Android_Application #Java 
